@@ -24,7 +24,7 @@
 ## 🍹 Overview
 The recent rapid development of Large Vision-Language Models (LVLMs) has indicated their potential for embodied tasks. However, the critical skill of spatial understanding in embodied environments has not been thoroughly evaluated, leaving the gap between current LVLMs and qualified embodied intelligence unknown. Therefore, we construct EmbSpatial-Bench, a benchmark for evaluating embodied spatial understanding of LVLMs. The benchmark is automatically derived from embodied scenes and covers 6 spatial relationships from an egocentric perspective. Below are a few examples.
 
-<img src="assets/example.png" style="width:300px" /> <img src="assets/example2.png" style="width:300px" /> <img src="assets/example3.png" style="width:300px" />
+<img src="assets/example.png" style="width:200px" /> <img src="assets/example2.png" style="width:200px" /> <img src="assets/example3.png" style="width:200px" />
 
 
 
