@@ -34,7 +34,7 @@ The recent rapid development of Large Vision-Language Models (LVLMs) has indicat
 
 
 
-## 🍻 Concat
+## 🍻 Contact
 
 If you are interested in accessing this dataset or have any related questions, please don't hesitate to reach out to us at mfdu22@m.fudan.edu.cn.
 
