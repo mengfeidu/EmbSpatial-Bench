@@ -7,8 +7,6 @@
 <div>
     Mengfei Du<sup>†</sup>;
     Binhao Wu<sup>†</sup></a>;
-    Jiwen Zhang;
-    Zhihao Fan;
     Zejun Li;
     Xuanjing Huang;
     <a href='http://www.sdspeople.fudan.edu.cn/zywei/' target='_blank'>Zhongyu Wei<sup>*</sup></a>
