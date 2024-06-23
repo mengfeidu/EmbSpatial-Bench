@@ -36,7 +36,7 @@ The recent rapid development of Large Vision-Language Models (LVLMs) has indicat
 ### EmbSpatial-Bench Data
 Questions from the human-verified evaluation data are formatted as multiple-choice problems. LVLMs need to select the most reasonable answer from choices. The primary metric is Accuracy. And there are two evaluation methods: generation and likelihood.
  
-We share the datset in: [EmbSpatial-Bench]([[https://drive.google.com/file/d/1Hy-mWrtuDjuq29iCQxCQzk0htTJs8SHg/view?usp=drive_link](https://huggingface.co/datasets/Phineas476/EmbSpatial-Bench) (containing our benchmark data and sft data) for model evaluation and training.
+We share the datset in: [EmbSpatial-Bench]([https://huggingface.co/datasets/Phineas476/EmbSpatial-Bench](https://huggingface.co/datasets/Phineas476/EmbSpatial-Bench) (containing our benchmark data and sft data) for model evaluation and training.
 
 Below shows two samples from the benchmark:
 ```
