@@ -1,4 +1,4 @@
-# EmbSpatial-Bench
+
 <div align="center">
 
 <h2>🎇EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models
